@@ -57,7 +57,7 @@ It features a modern decoupled web architecture built for scale, complete with f
 
 | Domain | Technology Stack | Description |
 | :--- | :--- | :--- |
-| **Frontend** | Next.js 14 (App Router), TypeScript, Tailwind CSS | High-performance user portal deployed to Vercel. |
+| **Frontend** | Next.js 15 (App Router), TypeScript, Tailwind CSS | High-performance user portal deployed to Vercel. |
 | **Backend** | FastAPI, Pandas, Pytest | High-speed Python pipeline handling state-free dataset mutations. |
 | **Auth & DB** | Supabase (PostgreSQL + RLS + GoTrue Auth) | Enterprise-grade access control with Row-Level Security (RLS). |
 | **Local NLP** | Ollama (Llama 3.2 model) | Localized unstructured text processing without data leakage. |
