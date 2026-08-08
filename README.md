@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Microdata Privacy Guard Logo" width="300" />
+  <img src="assets/logo.jpg" alt="Microdata Privacy Guard Logo" width="300" />
 </p>
 
 <h1 align="center">Microdata Privacy Guard</h1>
